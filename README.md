@@ -2,8 +2,6 @@
 Projeto educacional
 
 Este repositório foi criado com o objetivo de estudo e compreensão de como alguns malwares funcionam na prática, para que seja possível aprender a identificar, prevenir e se defender de ataques reais.  
-Nenhum código aqui deve ser utilizado de forma maliciosa.
-> **Uso estritamente educativo e demonstrativo.**  
 
 ##  Ransomware 
 
